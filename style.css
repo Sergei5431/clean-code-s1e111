@@ -67,7 +67,7 @@
     font-size: 15px;
     width: 60px;
     font-family: Lato, sans-serif;
-    cursor: pointer
+    cursor: pointer;
   }
   
   .button:hover {
@@ -99,7 +99,7 @@
   }
   
   .input:focus {
-    color: #333
+    color: #333;
   }
   
   /* New Task */
@@ -138,7 +138,7 @@
   }
   
   .task-list__input-text {
-    width: 226px
+    width: 226px;
   }
   
   .button-img {
